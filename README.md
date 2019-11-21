@@ -34,4 +34,14 @@ mvn package
 ```
 
 ## Installation
-Once the package is successful you should find the war file in the target directory. Install into your tomcat or jetty server.
+Once the package is successful built you should find the war file in the target directory. Install into your tomcat or jetty server.
+
+```
+total 49408
+drwxr-xr-x 1 197121        0 Nov 20 23:36 maven-status/
+drwxr-xr-x 1 197121        0 Nov 20 23:36 generated-sources/
+drwxr-xr-x 1 197121        0 Nov 20 23:36 classes/
+drwxr-xr-x 1 197121        0 Nov 20 23:36 mediadata-service/
+drwxr-xr-x 1 197121        0 Nov 20 23:36 maven-archiver/
+-rw-r--r-- 1 197121 28407030 Nov 20 23:36 mediadata-service.war
+```
